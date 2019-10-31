@@ -40,6 +40,8 @@ function cr_Features(earthquakeData) {
     // Sending our earthquakes layer to the createMap function
   createMap(earthquakes);
 }
+
+mapbox://styles/tomoftheworld/ck1bgn5ev0hxr1clc0x6q1jq0
 //create  map layers.
 function createMap(earthquakes) {
   // streetmap and darkmap layers
